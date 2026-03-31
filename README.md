@@ -1,1 +1,1 @@
-# Projeto-O-Dia-a-Dia-de-um-QA-A-Pr-tica-de-Testes-Manuais-Funcionais
+# Projeto feito seguindo as instruções de: "O Dia a Dia de um QA: A Prática de Testes Manuais Funcionais"
